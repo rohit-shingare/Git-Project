@@ -10,3 +10,4 @@ feature 2 - log out
 
 changes in file1 
 bug fixs
+bug2  fixed
