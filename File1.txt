@@ -4,7 +4,7 @@ Welcome to git!!!!!!!!!!!!!!!!!!!!
 
 
 
-feature 1 - login
+feature 1 - login - updated by team memeber 
 
 feature 2 - log out
 
